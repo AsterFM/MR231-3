@@ -1,2 +1,2 @@
-# RM231-3
-RM231-3 converter based on RM231 converter.
+# MR231-3
+MR231-3 converter based on MR231 converter.
